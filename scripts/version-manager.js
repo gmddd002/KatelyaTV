@@ -178,13 +178,7 @@ docker run -d --name katelyatv -p 3000:3000 --env PASSWORD=your_password ghcr.io
 ### 📋 完整更新日志
 查看 [CHANGELOG.md](CHANGELOG.md) 了解详细的更新历史。
 
-### 🔗 相关链接
-- [项目主页](https://github.com/katelya77/KatelyaTV)
-- [在线演示](https://katelyatv.vercel.app)
-- [问题反馈](https://github.com/katelya77/KatelyaTV/issues)
-- [功能建议](https://github.com/katelya77/KatelyaTV/discussions)
 
-`;
 
     // 在未发布部分后插入新版本
     const updatedChangelog = changelog.replace(
