@@ -1070,17 +1070,7 @@ pnpm format
 - 📖 [完善文档](https://github.com/katelya77/KatelyaTV/tree/main/docs)
 - 🔗 [推荐朋友](https://github.com/katelya77/KatelyaTV)
 
-**赞助支持**：
 
-<div align="center">
-  <img src="public/wechat.jpg" alt="微信赞赏码" width="200">
-  <br>
-  <strong>请开发者喝杯咖啡 ☕</strong>
-  <p><em>您的支持是项目持续发展的动力</em></p>
-</div>
-
-**企业赞助**：
-如果您的企业希望赞助 KatelyaTV 项目，请通过 [GitHub Sponsors](https://github.com/sponsors/katelya77) 或发邮件联系我们。
 
 ### � 项目统计
 
